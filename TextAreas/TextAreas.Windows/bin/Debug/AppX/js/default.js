@@ -16,6 +16,7 @@
                 // Restore application state here.
             }
             textArea.setUp();
+            textBox.setUp();
 
             args.setPromise(WinJS.UI.processAll());
         }
