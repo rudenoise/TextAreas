@@ -1,2 +1,11 @@
 ﻿body {
 }
+
+.win-textarea {
+    width: 35em;
+    height: auto;
+    border: 0;
+    font-size: 20px;
+    overflow-y: visible;
+    display: block;
+}

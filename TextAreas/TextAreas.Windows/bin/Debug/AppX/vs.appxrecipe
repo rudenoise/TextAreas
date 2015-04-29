@@ -50,7 +50,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2015-04-29T08:57:50.271</Modified>
+      <Modified>2015-04-29T10:05:24.978</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Shared\js\default.js">
       <PackagePath>js\default.js</PackagePath>
