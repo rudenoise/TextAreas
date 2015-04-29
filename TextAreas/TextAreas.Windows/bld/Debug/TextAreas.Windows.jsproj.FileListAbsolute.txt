@@ -1,0 +1,15 @@
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bin\Debug\AppxManifest.xml
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bin\Debug\TextAreas.Windows.build.appxrecipe
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\priconfig.xml
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\priconfig.xml.intermediate
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\layout.resfiles
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\layout.resfiles.intermediate
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\resources.resfiles
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\resources.resfiles.intermediate
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\pri.resfiles
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\pri.resfiles.intermediate
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\qualifiers.txt
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\qualifiers.txt.intermediate
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\ProjectArchitectures.txt
