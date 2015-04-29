@@ -7,5 +7,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="$(MSBuildThisFileDirectory)js\default.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\textArea.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\textBox.js" />
   </ItemGroup>
 </Project>

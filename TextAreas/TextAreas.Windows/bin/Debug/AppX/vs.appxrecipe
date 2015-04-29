@@ -7,7 +7,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>8c1c0527-1fb1-4a4f-9075-8b376b2f900b</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\bld\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>579C0883092A5D8BF263621583549DCC7DB27795C1513FA79D550D1027369C04</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>8c1c0527-1fb1-4a4f-9075-8b376b2f900b_1.0.0.0_neutral__81jn6d9hc2h0c</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>8c1c0527-1fb1-4a4f-9075-8b376b2f900b_81jn6d9hc2h0c!App</RegisteredUserModeAppID>
@@ -17,48 +17,56 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-29T08:53:29.236</Modified>
+      <Modified>2015-04-29T09:21:26.428</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\default.html">
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2015-04-29T08:52:53.946</Modified>
+      <Modified>2015-04-29T09:21:56.598</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-06-02T17:38:24.000</Modified>
+      <Modified>2015-04-29T08:57:50.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-06-02T17:38:24.000</Modified>
+      <Modified>2015-04-29T08:57:50.287</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-06-02T17:38:24.000</Modified>
+      <Modified>2015-04-29T08:57:50.287</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-06-02T17:38:24.000</Modified>
+      <Modified>2015-04-29T08:57:50.287</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\css\default.css">
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2014-06-02T17:38:24.000</Modified>
+      <Modified>2015-04-29T08:57:50.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Shared\js\default.js">
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Shared\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2015-04-29T08:52:53.728</Modified>
+      <Modified>2015-04-29T09:21:56.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\2\TextAreas\TextAreas\TextAreas.Windows\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Shared\js\textArea.js">
+      <PackagePath>js\textArea.js</PackagePath>
+      <Modified>2015-04-29T09:29:08.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Shared\js\textBox.js">
+      <PackagePath>js\textBox.js</PackagePath>
+      <Modified>2015-04-29T09:21:21.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-29T08:53:29.017</Modified>
+      <Modified>2015-04-29T09:21:26.318</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

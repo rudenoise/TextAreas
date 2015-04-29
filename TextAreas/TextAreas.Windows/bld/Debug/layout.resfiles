@@ -1,4 +1,6 @@
 js\default.js
+js\textArea.js
+js\textBox.js
 css\default.css
 default.html
 images\logo.png

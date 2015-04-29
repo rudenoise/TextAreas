@@ -15,6 +15,8 @@
                 // TODO: This application has been reactivated from suspension.
                 // Restore application state here.
             }
+            textArea.setUp();
+
             args.setPromise(WinJS.UI.processAll());
         }
     };

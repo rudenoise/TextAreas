@@ -11,9 +11,34 @@
 
     <!-- TextAreas.Windows references -->
     <link href="/css/default.css" rel="stylesheet" />
+    <script src="js/textArea.js"></script>
+    <script src="js/textBox.js"></script>
     <script src="/js/default.js"></script>
+    
 </head>
 <body>
-    <p>Content goes here</p>
+    <H1>Text Areas</H1>
+    <hr />
+    <h2>Regular text area:</h2>
+    <h3>In</h3>
+    <textarea id="textAreaIn">Paste some content from the web into me...</textarea>
+    <br clear="all" />
+    <button id="textAreaGo">Go</button>
+    <h3>Out</h3>
+    <div id="textAreaOut"></div>
+    <hr />
+    <h2>TextBox</h2>
+    <h3>In</h3>
+    <div id="textBoxContainer">
+        <div id="textBoxIn"
+             role="textbox"
+             contenteditable="true"
+             aria-multiline="true"
+             class="win-textarea">Paste some content from the web into me...</div>
+    </div>
+    <br clear="all" />
+    <button id="textBoxGo">Go</button>
+    <h3>Out</h3>
+    <div id="textBoxOut"></div>
 </body>
 </html>
