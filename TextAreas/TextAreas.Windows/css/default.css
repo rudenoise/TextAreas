@@ -9,3 +9,10 @@
     overflow-y: visible;
     display: block;
 }
+
+#textAreaIn {
+    width: 35em;
+    height: 500px;
+    overflow-y: visible;
+}
+

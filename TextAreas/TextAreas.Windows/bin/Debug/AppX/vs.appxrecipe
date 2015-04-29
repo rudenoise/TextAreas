@@ -50,7 +50,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Windows\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2015-04-29T10:05:24.978</Modified>
+      <Modified>2015-04-29T10:35:18.581</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Shared\js\default.js">
       <PackagePath>js\default.js</PackagePath>
@@ -58,7 +58,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Shared\js\textArea.js">
       <PackagePath>js\textArea.js</PackagePath>
-      <Modified>2015-04-29T09:32:44.590</Modified>
+      <Modified>2015-04-29T10:38:50.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rudenoise\Documents\TextAreas\TextAreas\TextAreas.Shared\js\textBox.js">
       <PackagePath>js\textBox.js</PackagePath>
